@@ -1,0 +1,2 @@
+echo "mypkg resource file" > ~/robocon/ros2_ws/src/mypkg/resource/mypkg
+
